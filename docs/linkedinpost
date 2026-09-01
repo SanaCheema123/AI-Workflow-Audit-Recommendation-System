@@ -1,0 +1,31 @@
+LinkedIn Post
+
+🚀 Excited to Share My Latest Project: AI Workflow Audit & Recommendation System
+
+I recently developed a full-stack AI-powered workflow auditing platform designed to analyze automation and AI-agent workflows and assess their readiness for production.
+
+The system combines a modern React frontend, FastAPI backend, deterministic audit rules, and Google Gemini to transform workflow structures into meaningful risk insights and actionable recommendations.
+
+🔍 Key capabilities include:
+
+Automated workflow JSON analysis
+Architecture, security & reliability auditing
+AI governance and maintainability assessment
+Risk-level classification
+Production-readiness scoring
+Detailed findings and prioritized recommendations
+Interactive analytics dashboard
+Audit history and report generation
+Light/Dark workspace modes
+15 dynamic global color themes
+Responsive and interactive UI
+
+🛠️ Tech Stack: React • Vite • FastAPI • Python • SQLAlchemy • SQLite • Google Gemini • REST APIs
+
+This project demonstrates how Generative AI can go beyond content generation and support practical software engineering, governance, and workflow assurance tasks.
+
+I’m looking forward to continuing to improve it with features such as workflow version comparison, custom audit policies, compliance checks, CI/CD integration, and real-time monitoring.
+
+💡 Build smarter workflows. Audit risks early. Deploy with greater confidence.
+
+#ArtificialIntelligence #GenerativeAI #ReactJS #FastAPI #Python #GeminiAI #AIAgents #WorkflowAutomation #FullStackDevelopment #SoftwareEngineering #AIGovernance #MachineLearning #AIEngineering #Automation
