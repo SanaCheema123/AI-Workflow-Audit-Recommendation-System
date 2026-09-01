@@ -1,5 +1,9 @@
 # AI Workflow Audit & Recommendation System
 
+
+https://github.com/user-attachments/assets/6c0adeab-8a66-4b20-9b7a-6f14b43fca59
+
+
 An AI-powered full-stack application for auditing, evaluating, and improving automation and AI-agent workflows.
 
 The system accepts workflow JSON files, analyzes their architecture and configuration, identifies reliability, security, governance, performance, scalability, and maintainability concerns, calculates an overall readiness score, and generates actionable recommendations.
